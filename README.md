@@ -1,5 +1,12 @@
 # Sublime_Settings
 How to set up sublime in linux/mac/windows for the first time for python and java developers.
+
+## Author and Help Details:
+```
+Author: Subhra Samir Kundu
+Email: subhrasamirk@gmail.com
+Credit for Help: Corey M Schaffer and His Youtube Channel
+```
 ### The Following commands should be followed:
 ```
 ctrl+shift+p          #command pallette

@@ -1,10 +1,6 @@
 {
-    "cmd": ["/home/ssk-pc/anaconda3/bin/python", "-u", "$file"],
+    "cmd": ["/home/user/anaconda3/bin/python", "-u", "$file"],
     "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
     "quiet": true
 }
-{
-    "cmd": ["/home/ssk-pc/anaconda3/bin/python", "-u", "$file"],
-    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
-    "quiet": true
-}
+

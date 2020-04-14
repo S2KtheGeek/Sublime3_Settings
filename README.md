@@ -3,7 +3,7 @@ How to set up sublime in linux/mac/windows for the first time for python and jav
 
 ## Author and Help Details:
 ```
-Author: Subhra Samir Kundu
+Author: s2ktheGeek
 Email: g3eklord@yandex.com
 Credit for Help: Corey M Schaffer and His Youtube Channel
 ```
